@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_WPF_Containers_1", "04_WPF_Containers_1\04_WPF_Containers_1.csproj", "{AEF5C7A2-4A3B-42AC-BA5B-503939E6B80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF5C7A2-4A3B-42AC-BA5B-503939E6B80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF5C7A2-4A3B-42AC-BA5B-503939E6B80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF5C7A2-4A3B-42AC-BA5B-503939E6B80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF5C7A2-4A3B-42AC-BA5B-503939E6B80B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20A27149-B7F3-4199-821D-E6EEACD1C49B}
+	EndGlobalSection
+EndGlobal
